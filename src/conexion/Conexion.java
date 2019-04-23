@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class Conexion {
-   
+   //Hola Git
     private static java.sql.Connection conn;
     private final String driver;
     private final String user;
